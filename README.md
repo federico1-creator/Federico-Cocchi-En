@@ -15,6 +15,11 @@ Syntax highlighted code block
 
 # ciao
 ## Header 2
+
+vedere cosa posso fare:
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
 ```
 ### Header 3
 
