@@ -2,7 +2,7 @@
 
 ![](images\union_jack.png){:height="25" width="25"}
 
-English version of the Portfolio at the following [link](https://federico1-creator.github.io/Portfolio/)
+Italian version of the Portfolio at the following [link](https://federico1-creator.github.io/Portfolio/)
 
 ---
 
