@@ -1,3 +1,5 @@
+Parte da fare in Inglese !!!
+
 # Benvenuti nel mio portfolio: WORK IN PROGRESS ... 
 
 ![](images\union_jack.png){:height="25" width="25"}
