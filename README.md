@@ -7,49 +7,49 @@ Italian version of the Portfolio at the following [link](https://federico1-creat
 ---
 
 ### [Image captioning](https://github.com/federico1-creator/AI4A)
-Progetto per il corso di **AI for Automotive**
+Project for the course of **AI for Automotive** - UNIMORE 2021
 
 ![](/images/AI4A.jpg){:height="200" width="400"}
 
-Negli anni recenti i modelli Transformer-based hanno raggiunto lo SOTA per quanto riguarda i Sequence model. 
-Nel nostro caso abbiamo costruito un sistema per Image captioning.
-Considera come input le immagini ed il testo (multimodal) e descrive attraverso il linguaggio naturale qullo che 'vede' nell'immagine.
+In the last years the Transfromer-based models reached the SOTA for the Sequence modelling.
+In the project I have build a system for *Image captioning*.
+This type of system, consider as input the image and text (multimodal)
+and describe through the natural language the image. 
 
 Tranformer - Attention operator - Image captioning - COCO - CIDEr - Multimodal - text - image - Sequence model
 
 ---
 
 ### [Design a new pipeline to make a Virtual Try-On from a deep learning perspective](https://github.com/federico1-creator/CV-CS)
-Progetto per il corso **Computer Vision & Cognitive Systems** - UNIMORE 2021
+Project for the course of **Computer Vision & Cognitive Systems** - UNIMORE 2021
 
 ![](/images/VITON.jpg){:height="150" width="350"}
 
-Creazione di una pipeline che permetta di creare un *camerino virtuale* per simulare la prova di nuovi abiti. Per questo progetto è stato utilizzato il dataset creato con la collaborazione di *Yoox*. 
-In quest'ottica è stato creato anche un sistema di *retrieval* che suggerisce all'utilizzatore i vestiti più simili a quelli indossati, rispetto a quelli in catalogo.
-Per creare la *trasformazione geometrica* che permette di simulare l'indossamento del nuovo abito si è utilizzata una rete neurale che permette di imparare la migliore trasformazione.  
+Creation of a pipeline for a *virtual try-on* to simulate trying on new clothes.  For this project I have used a dataset build with the collaboration of *Yoox*.
+In this direction, also a retrieval system was implement. To suggest at the final users the most similar cloths respect to those worn, in the catalogues.
+To create the * geometric transformation * that allows you to simulate the wearing of the new dress, a neural network was used that allows you to learn the best transformation. 
 
 Python - Pytorch - Yoox - Retrieval - Virtual Try On - Semantic segmentation - Image processing - Geometric transform
 
 ---
 
 ### [Hackathon on COVID-19](https://github.com/federico1-creator/covid-hackathon)
-Progetto per hackathon su COVID-19
+Project for hackathon on COVID-19
 
 ![](/images/final.jpg){:height="200" width="400"}
 
-<!-- The purpose of this work is to define an explainable way to define if a COVID patient health status is "MILD" or "SEVERE" using an algorithm which elaborates this dataset. Each one of the following section explains one step of our classification pipeline. -->
-
-L'obiettivo di questo lavoro è quello di trovare una maniera 'explainability' per definire se un paziente ha uno stato 'MILD' o 'SEVERE' rispetto alla patologia COVID-19; attraverso l'uso del nostro algoritmo.
-Nel paper viene descritto passo a passo l'architettura utilizzata per massimizzare explainability del modello per poter aiutare l'interpretazione del risultato.
+The purpose of this work is to define an explainable way to define if a COVID patient health status is "MILD" or "SEVERE" using an algorithm which elaborates this dataset. Each one of the following section explains one step of our classification pipeline.
 
 Semantic Segmentation - Pytorch - Classification - Decision tree - Medical images
 
 ---
 
 ### [Anomaly prediction with Temporal Convolutional Networks and Data Augmentation in High Performance Computing Systems](https://github.com/federico1-creator/Thesis)
-**Tesi di laurea triennale** - UNIBO 2020 
+**Bachelor thesis** - UNIBO 2020 
 
 ![](/images/image.png){:height="200" width="450"}
+
+The thesis work investigate 
 
 Il lavoro di tesi ha indagato metodologie di anomaly prediction di anomalie nel sistema HPC LEONARDO situato presso il CINECA.
 Si sono utilizzate tecniche di *machine learning*, creando una rete convoluzionale per analizzare le serie temporali in input.
@@ -61,7 +61,7 @@ Python - Tensorflow - Temporal series - Anomaly detection - High Performance Com
 ---
 
 ### [Health detector](https://github.com/federico1-creator/HEALTH-DETECTOR)
-Progetto per il corso **IoT & 3D systems** - UNIMORE 2021 
+Project for the course of **IoT & 3D systems** - UNIMORE 2021 
 
 ![](/images/IoT.jpg){:height="200" width="400"}
 
@@ -74,19 +74,19 @@ Arduino - IoT - Points cloud - 3D systems - Python - Flask - Server web - Tempor
 ---
 
 ### [Re-design dell'interfaccia di un trattore New Holland del gruppo *CNH*](https://github.com/federico1-creator/HowIMetYourTractor)
-Progetto per il corso **User Experience Design** - UNIMORE 2021 
+Project for the course of **User Experience Design** - UNIMORE 2021 
 
 ![](/images/uxd.jpg){:height="200" width="400"}
 
 Seguendo le fasi del Design cycle inizialmente si sono fatte ricerche su competitor ed analizzati diversi fattori sugli utenti utilizzando tecniche come personas, interviste, analisi degli scenari di utilizzo. Creando una House of quality con requisiti e richieste.
 Una volta individuata l'idea si sono creati diversi concept (prima a bassa fedeltà e poi ad alta fedeltà) ed analisi ergonomiche della cabina con il nuovo design per analizzare l'interazione con l'utente. In conclusione si sono svolti dei test di usanìbilità con dei volontari, per valutare oggettivamente il risultato.
 
-QFD - Analisi ergonomiche - Concept - XD -Jack - House of quality 
+QFD - Ergonomic analysis - Concept - XD - Jack - House of quality 
 
 ---
 
 ### [INAFARM](https://github.com/federico1-creator/INAFarm)
-Progetto per il corso **Innovation, development, entrepreneurship** presso **ALMALABOR**
+Project for the course of **Innovation, development, entrepreneurship** on **ALMALABOR**
 
 ![](/images/INAFARM.jpg){:height="200" width="400"}
 
@@ -97,7 +97,7 @@ Arduino - Team working - Multidisciplinarity - Laser cut - 3D printer
 ---
 
 ### [Confezionamento yogurt](https://github.com/federico1-creator/Progetto-macchina-yogourt)
-Progetto per il corso di **Macchine automatiche**
+Project for the course of **Macchine automatiche**
 
 ![](/images/yogurt.jpg){:height="200" width="400"}
 
@@ -106,6 +106,6 @@ Valutazione di tutte le forze in atto e dei vari moti per individuare i vincoli 
 Per poi creare un modello 3D del sistema automatico di chiusura e movimentazione dei vasetti pieni di yogurt, con lo scopo di 
 valutare le varie fasi di attuazione ed il sistema pneumatico necessario all'attuazione dei vari cilindri attuatori.
 
-Diagrammi delle fasi - Grafcet -  Attuatori - Dimensionamenti - Sistema pneumatico
+Diagram of the phases - Grafcet -  Actuators - Sizing - Pneumatic system
 
 ---
