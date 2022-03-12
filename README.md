@@ -71,7 +71,7 @@ Arduino - IoT - Points cloud - 3D systems - Python - Flask - Server web - Tempor
 
 ---
 
-### [Re-design dell'interfaccia di un trattore New Holland del gruppo *CNH*](https://github.com/federico1-creator/HowIMetYourTractor)
+### [Re-design of the interface of a tractor New Holland, of the group *CNH*](https://github.com/federico1-creator/HowIMetYourTractor)
 Project for the course of **User Experience Design** - UNIMORE 2021 
 
 ![](/images/uxd.jpg){:height="200" width="400"}
@@ -94,7 +94,7 @@ Arduino - Team working - Multidisciplinarity - Laser cut - 3D printer
 
 ---
 
-### [Confezionamento yogurt](https://github.com/federico1-creator/Progetto-macchina-yogourt)
+### [Packaging machine for yogurt](https://github.com/federico1-creator/Progetto-macchina-yogourt)
 Project for the course of **Macchine automatiche**
 
 ![](/images/yogurt.jpg){:height="200" width="400"}
