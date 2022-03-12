@@ -49,11 +49,9 @@ Semantic Segmentation - Pytorch - Classification - Decision tree - Medical image
 
 ![](/images/image.png){:height="200" width="450"}
 
-The thesis work investigate 
-
-Il lavoro di tesi ha indagato metodologie di anomaly prediction di anomalie nel sistema HPC LEONARDO situato presso il CINECA.
-Si sono utilizzate tecniche di *machine learning*, creando una rete convoluzionale per analizzare le serie temporali in input.
-Per migliorare le performance del sistema, si sono utilizzate tecniche di *Data Augmentation*, visto l'elevato sbilanciamento nel dataset tra esempi corretti ed fault del sistema. 
+The thesis work investigated anomaly prediction methodologies of anomalies in the LEONARDO HPC system located at the CINECA.
+We used *Machine Learning* techniques, creating a 1-D convolutional network to analyze the input time series.
+To improve the performance of the system, *Data Augmentation* techniques were used, given the high imbalance in the dataset between correct examples and system faults.
 
 Python - Tensorflow - Temporal series - Anomaly detection - High Performance Computing - Machine learning - Data augmentation
 
@@ -65,9 +63,9 @@ Project for the course of **IoT & 3D systems** - UNIMORE 2021
 
 ![](/images/IoT.jpg){:height="200" width="400"}
 
-Il progetto ha realizzato un sistema di monitoraggio della salute dei *pazienti/utenti* valutando diversi dati acquisiti da sensori controllati con Arduino. Con tali dati si è implementata una gestione web intelligente per predire lo stato di salute del paziente, basandosi sull'intelligenza artificiale per studiare l'evoluzione delle serie temporali.
-Per facilitare la creazione di un possibile prototipo si è acquisito un modello 3D dell'oggetto tramite una nuvola di punti.
-Il lavoro ha come obiettivo quello di fornire strumenti più efficaci al paziente ed al medico per valutare lo stato di salute ed agire con operazione proattive in caso di necessità.
+The project has created a health monitoring system for *patients / users* by evaluating different data acquired from sensors controlled with Arduino. With these data, an intelligent management has been implemented to predict the patient's state of health, relying on artificial intelligence to study the evolution of time series.
+To facilitate the creation of a possible prototype, a 3D model of the object was acquired using a point cloud.
+The work aims to provide more effective tools to the patient and the doctor to assess the state of health and act with proactive operations in case of need.
 
 Arduino - IoT - Points cloud - 3D systems - Python - Flask - Server web - Temporal series
 
@@ -78,8 +76,8 @@ Project for the course of **User Experience Design** - UNIMORE 2021
 
 ![](/images/uxd.jpg){:height="200" width="400"}
 
-Seguendo le fasi del Design cycle inizialmente si sono fatte ricerche su competitor ed analizzati diversi fattori sugli utenti utilizzando tecniche come personas, interviste, analisi degli scenari di utilizzo. Creando una House of quality con requisiti e richieste.
-Una volta individuata l'idea si sono creati diversi concept (prima a bassa fedeltà e poi ad alta fedeltà) ed analisi ergonomiche della cabina con il nuovo design per analizzare l'interazione con l'utente. In conclusione si sono svolti dei test di usanìbilità con dei volontari, per valutare oggettivamente il risultato.
+Following the phases of the Design cycle, initially research on competitors was carried out and various factors analyzed on users using techniques such as personas, interviews, analysis of usage scenarios. Then a House of quality (HOQ) was created with requirements and requests.
+Once the idea was identified, various concepts were created (first low-fidelity and then high-fidelity) and ergonomic analyzes of the cabin with the new design to analyze the interaction with the user. In conclusion, usability tests were carried out with volunteers, to objectively evaluate the result.
 
 QFD - Ergonomic analysis - Concept - XD - Jack - House of quality 
 
@@ -90,7 +88,7 @@ Project for the course of **Innovation, development, entrepreneurship** on **ALM
 
 ![](/images/INAFARM.jpg){:height="200" width="400"}
 
-Il progetto si è basato su una forte multidisciplinarrietà del gruppo, che ha sviluppato una sua idea creativa fin dalle sue prime fasi di brain storming ed individuazione dell'idea per poi realizzare la realizzazione pratica, grazie alle attrezzature disponibili tramite il laboratorio ALMALABOR. Concludendo con la presentazione del risultato ottenuto.
+The project was based on a strong multidisciplinary nature of the group, which developed its own creative idea right from the first stages of brain storming and identification of the idea to then carry out the practical realization, thanks to the equipment available through the ALMALABOR laboratory. Concluding with the presentation of the result obtained.
 
 Arduino - Team working - Multidisciplinarity - Laser cut - 3D printer
 
@@ -101,10 +99,10 @@ Project for the course of **Macchine automatiche**
 
 ![](/images/yogurt.jpg){:height="200" width="400"}
 
-Studio e dimensionamento di una macchina automatica per il confezionamento dello yogurt. 
-Valutazione di tutte le forze in atto e dei vari moti per individuare i vincoli di progetto e dimensionare i vari attuatori. 
-Per poi creare un modello 3D del sistema automatico di chiusura e movimentazione dei vasetti pieni di yogurt, con lo scopo di 
-valutare le varie fasi di attuazione ed il sistema pneumatico necessario all'attuazione dei vari cilindri attuatori.
+Analysis and sizing of an automatic yogurt packaging machine.
+Evaluation of all the forces in action and of the various motions to identify the design constraints and size the various actuators.
+To then create a 3D model of the automatic closing and handling system for jars full of yogurt.
+With the aim of evaluate the various stages of implementation and the pneumatic system necessary for the implementation of the various actuator cylinders.
 
 Diagram of the phases - Grafcet -  Actuators - Sizing - Pneumatic system
 
