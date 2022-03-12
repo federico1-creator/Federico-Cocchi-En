@@ -1,6 +1,6 @@
 # Welcome on my portfolio:
 
-![](images\union_jack.png){:height="25" width="25"}
+![](images\italian.jpg){:height="25" width="25"}
 
 Italian version of the Portfolio at the following [link](https://federico1-creator.github.io/Portfolio/)
 
