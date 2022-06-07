@@ -6,6 +6,10 @@ Italian version of the Portfolio at the following [link](https://federico1-creat
 
 ---
 
+List of the attended seminars at the following [link](https://github.com/federico1-creator/seminars_followed/blob/main/README.md)
+
+---
+
 ### [Image captioning](https://github.com/federico1-creator/AI4A)
 Project for the course of **AI for Automotive** - UNIMORE 2021
 
