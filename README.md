@@ -38,15 +38,15 @@ Python - Pytorch - Yoox - Retrieval - Virtual Try On - Semantic segmentation - I
 ---
 
 ### [Reinforcement Learning with a single agent model free](https://github.com/federico1-creator/Distributed-AI)
-Progetto per il corso **Distributed Artificial Intelligence** - UNIMORE 2021
+Project for the course of **Distributed Artificial Intelligence** - UNIMORE 2021
 
 ![](/images/image.png){:height="150" width="350"}
 
-Ho indagato l'utilizzo di singoli agenti model-free in vari environment, da quelli più semplici a quelli più complessi.
-Inizialmente l'agente non conosce l'ambiente in cui opera, ma durante l'allenamento impara che azioni (policy) eseguire per completare correttamente il task.
+I investigated the use of single agent model-free in various environments, from the simplest to the most complex ones.
+Initially the agent does not know the environment in which it operates, but during training it learns what actions (policy) to perform to complete the task correctly.
 
-Gli algoritmi utilizzati sono stati il Q-learning e DQN.
-Ho anche paragonato tra loro i risultati ottenuti, considerando anche la modifica di alcuni hyperparameters.
+The algorithms used were Q-learning and DQN.
+I also compared the results obtained, also considering changes of some hyperparameters.
 
 Python - Gym - DQN - Q-learning - wandb - Numpy
 
