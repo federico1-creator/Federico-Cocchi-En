@@ -44,7 +44,6 @@ Project for the course of **Distributed Artificial Intelligence** - UNIMORE 2021
 
 I investigated the use of single agent model-free in various environments, from the simplest to the most complex ones.
 Initially the agent does not know the environment in which it operates, but during training it learns what actions (policy) to perform to complete the task correctly.
-
 The algorithms used were Q-learning and DQN.
 I also compared the results obtained, also considering changes of some hyperparameters.
 
