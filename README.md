@@ -85,7 +85,7 @@ ROS - Python - cpp - RViz - MoveIt - Pytorch - MediaPipe - Franka robot
 
 The thesis work investigated anomaly prediction methodologies of anomalies in the LEONARDO HPC system located at the CINECA.
 We used *Machine Learning* techniques, creating a 1-D convolutional network to analyze the input time series.
-To improve the performance of the system, *Data Augmentation* techniques were used, given the high imbalance in the dataset between correct examples and system faults.
+To improve the performance of the system, *data augmentation* techniques were used, given the high imbalance in the dataset between correct examples and system faults.
 
 Python - Tensorflow - Temporal series - Anomaly detection - High Performance Computing - Machine learning - Data augmentation
 
@@ -98,19 +98,19 @@ Project for **IoT & 3D systems** course - UNIMORE 2021
 
 The project has created a health monitoring system for *patients / users* by evaluating different data acquired from sensors controlled with Arduino. With these data, an intelligent management has been implemented to predict the patient's state of health, relying on artificial intelligence to study the evolution of time series.
 To facilitate the creation of a possible prototype, a 3D model of the object was acquired using a point cloud.
-The work aims to provide more effective tools to the patient and the doctor to assess the state of health and act with proactive operations in case of need.
+The work aims to provide more effective tools to patients and doctors to assess the state of health and act with proactive operations in case of need.
 
 Arduino - IoT - Points cloud - 3D systems - Python - Flask - Server web - Temporal series
 
 ---
 
-### [Re-design of the interface of a tractor New Holland, of the group *CNH*](https://github.com/federico1-creator/HowIMetYourTractor)
+### [Re-design the New Holland tractor interface, of the group *CNH*](https://github.com/federico1-creator/HowIMetYourTractor)
 Project for **User Experience Design** course - UNIMORE 2021 
 
 ![](/images/uxd.jpg){:height="200" width="400"}
 
-Following the phases of the Design cycle, initially research on competitors was carried out and various factors analyzed on users using techniques such as personas, interviews, analysis of usage scenarios. Then a House of quality (HOQ) was created with requirements and requests.
-Once the idea was identified, various concepts were created (first low-fidelity and then high-fidelity) and ergonomic analyzes of the cabin with the new design to analyze the interaction with the user. In conclusion, usability tests were carried out with volunteers, to objectively evaluate the result.
+Following the phases of the *design cycle*, initially research on competitors was carried out and various factors analyzed on users using techniques such as personas, interviews, analysis of usage scenarios. Then a House of quality (HOQ) was created with requirements and requests.
+Once the idea was identified, various concepts were created (first low-fidelity and then high-fidelity) and an ergonomic analysis of the cabin with the new design to verify the interaction with the user. In conclusion, usability tests were carried out with volunteers, to objectively evaluate the results.
 
 QFD - Ergonomic analysis - Concept - XD - Jack - House of quality 
 
