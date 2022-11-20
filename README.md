@@ -133,10 +133,9 @@ Project for the course of **Macchine automatiche**
 
 ![](/images/yogurt.jpg){:height="200" width="400"}
 
-Analysis and sizing of an automatic yogurt packaging machine.
-Evaluation of all the forces and motions in action to identify the design constraints and size the various actuators.
-To then create a 3D model of the automatic closing and handling system for jars full of yogurt.
-The objective of the project was to evaluate the various stages of implementation of the pneumatic system used for the actuator cylinders.
+Analysis and sizing of an automatic yogurt packaging machine. Evaluation of all forces and movements in action to identify design constraints 
+and size the various actuators. Creation of a 3D model of the automatic system for closing and handling yogurt-filled jars. 
+The objective of the project was to evaluate the various stages of implementation of the pneumatic system used for the cylindrical actuators.
 
 Diagram of the phases - Grafcet -  Actuators - Sizing - Pneumatic system
 
