@@ -31,9 +31,9 @@ Project for **Computer Vision & Cognitive Systems** course - UNIMORE 2021
 
 Creation of a pipeline for a *virtual try-on* to simulate trying on new clothes.  For this project I have used a dataset build with the collaboration of *Yoox*.
 In this direction, also a retrieval system was implement. To suggest at the final users the most similar cloths respect to those worn, in the catalogues.
-To create the * geometric transformation * that allows you to simulate the wearing of the new dress, a neural network was used that allows you to learn the best transformation. 
+To create the *geometric transformation*, that allows you to simulate the wearing of the new dress, a neural network was used that allows you to learn the best transformation. 
 
-Python - Pytorch - Yoox - Retrieval - Virtual Try On - Semantic segmentation - Image processing - Geometric transform
+Python - Pytorch - Yoox - Retrieval - Virtual Try On - Semantic segmentation - Image processing - Geometric transformation
 
 ---
 
@@ -42,12 +42,12 @@ Project for **Distributed Artificial Intelligence** course - UNIMORE 2021
 
 ![](/images/image.png){:height="150" width="350"}
 
-I investigated the use of single agent model-free in various environments, from the simplest to the most complex ones.
+I investigated the use of a single agent model-free in various environments, from the simplest to the most complex ones.
 Initially the agent does not know the environment in which it operates, but during training it learns what actions (policy) to perform to complete the task correctly.
 The algorithms used were Q-learning and DQN.
 I also compared the results obtained, also considering changes of some hyperparameters.
 
-Python - Gym - DQN - Q-learning - wandb - Numpy
+Python - gym - DQN - Q-learning - wandb - numpy
 
 ---
 
