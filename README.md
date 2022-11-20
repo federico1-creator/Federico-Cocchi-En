@@ -56,7 +56,8 @@ Project for hackathon on COVID-19
 
 ![](/images/final.jpg){:height="200" width="400"}
 
-The purpose of this work is to define an explainable way to define if a COVID patient health status is "MILD" or "SEVERE" using an algorithm which elaborates this dataset. Each one of the following section explains one step of our classification pipeline.
+The purpose of this work is to define an explainable way to define if a COVID patient health status is "MILD" or "SEVERE" using an algorithm which elaborates clinical data and x-rays. The goal is to achieve good performance in the prediction using a well explinable approach.
+To avoid the black box in a safety critical domain as healthcare.
 
 Semantic Segmentation - Pytorch - Classification - Decision tree - Medical images
 
@@ -67,11 +68,11 @@ Project for **Smart Robotics** course - UNIMORE 2022
 
 ![](/images/SR.jpg){:height="200" width="400"}
 
-The group work led to the creation of a simulation of the franka robot, controlled without the use of the controller but through gestures.
+The group work led to the creation of a simulation of the franka robot, controlled without the use of any controller but through gestures.
 To do this, a vision system has been created capable of classifying the different labels.
 By exploiting keypoints and a simple Neural Network, we were able to do this with an high accuracy (96%) and in real time.
-With ROS communications, demos were then created to show the potential of the implemented system.
-Controlling the robot with MoveIt in cpp.
+Using ROS communications, demos were then created to show the potential of the implemented system. 
+The robot was controlled with MoveIt in the cpp language.
 
 ROS - Python - cpp - RViz - MoveIt - Pytorch - MediaPipe - Franka robot
 
