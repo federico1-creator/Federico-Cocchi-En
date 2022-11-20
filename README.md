@@ -11,7 +11,7 @@ List of the attended seminars at the following [link](https://github.com/federic
 ---
 
 ### [Image captioning](https://github.com/federico1-creator/AI4A)
-Project for the course of **AI for Automotive** - UNIMORE 2021
+Project for **AI for Automotive** course - UNIMORE 2021
 
 ![](/images/AI4A.jpg){:height="200" width="400"}
 
@@ -25,7 +25,7 @@ Tranformer - Attention operator - Image captioning - COCO - CIDEr - Multimodal -
 ---
 
 ### [Design a new pipeline to make a Virtual Try-On from a deep learning perspective](https://github.com/federico1-creator/CV-CS)
-Project for the course of **Computer Vision & Cognitive Systems** - UNIMORE 2021
+Project for **Computer Vision & Cognitive Systems** course - UNIMORE 2021
 
 ![](/images/VITON.jpg){:height="150" width="350"}
 
@@ -38,7 +38,7 @@ Python - Pytorch - Yoox - Retrieval - Virtual Try On - Semantic segmentation - I
 ---
 
 ### [Reinforcement Learning with a single agent model free](https://github.com/federico1-creator/Distributed-AI)
-Project for the course of **Distributed Artificial Intelligence** - UNIMORE 2021
+Project for **Distributed Artificial Intelligence** course - UNIMORE 2021
 
 ![](/images/image.png){:height="150" width="350"}
 
@@ -63,7 +63,7 @@ Semantic Segmentation - Pytorch - Classification - Decision tree - Medical image
 ---
 
 ### [CoViRo: control robot through a hand gesture recognition system](https://github.com/federico1-creator/gesture_robot)
-Project for the course of **Smart Robotics** - UNIMORE 2022
+Project for **Smart Robotics** course - UNIMORE 2022
 
 ![](/images/SR.jpg){:height="200" width="400"}
 
@@ -91,7 +91,7 @@ Python - Tensorflow - Temporal series - Anomaly detection - High Performance Com
 ---
 
 ### [Health detector](https://github.com/federico1-creator/HEALTH-DETECTOR)
-Project for the course of **IoT & 3D systems** - UNIMORE 2021 
+Project for **IoT & 3D systems** course - UNIMORE 2021 
 
 ![](/images/IoT.jpg){:height="200" width="400"}
 
@@ -104,7 +104,7 @@ Arduino - IoT - Points cloud - 3D systems - Python - Flask - Server web - Tempor
 ---
 
 ### [Re-design of the interface of a tractor New Holland, of the group *CNH*](https://github.com/federico1-creator/HowIMetYourTractor)
-Project for the course of **User Experience Design** - UNIMORE 2021 
+Project for **User Experience Design** course - UNIMORE 2021 
 
 ![](/images/uxd.jpg){:height="200" width="400"}
 
