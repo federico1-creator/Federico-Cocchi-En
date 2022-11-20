@@ -117,11 +117,12 @@ QFD - Ergonomic analysis - Concept - XD - Jack - House of quality
 ---
 
 ### [INAFARM](https://github.com/federico1-creator/INAFarm)
-Project for the course of **Innovation, development, entrepreneurship** on **ALMALABOR**
+Project for the course of **Innovation, development, entrepreneurship** at **Almalabor**
 
 ![](/images/INAFARM.jpg){:height="200" width="400"}
 
-The project was based on a strong multidisciplinary nature of the group, which developed its own creative idea right from the first stages of brain storming and identification of the idea to then carry out the practical realization, thanks to the equipment available through the ALMALABOR laboratory. Concluding with the presentation of the result obtained.
+The project was based on a strong multidisciplinary nature of the group, which developed its own creative idea right from the first stages of brain storming and identification of the idea to then carry out the practical realization. 
+Thanks to the equipment available through the Almalabor laboratory. The course concluded with the presentation of the project results.
 
 Arduino - Team working - Multidisciplinarity - Laser cut - 3D printer
 
@@ -133,9 +134,9 @@ Project for the course of **Macchine automatiche**
 ![](/images/yogurt.jpg){:height="200" width="400"}
 
 Analysis and sizing of an automatic yogurt packaging machine.
-Evaluation of all the forces in action and of the various motions to identify the design constraints and size the various actuators.
+Evaluation of all the forces and motions in action to identify the design constraints and size the various actuators.
 To then create a 3D model of the automatic closing and handling system for jars full of yogurt.
-With the aim of evaluate the various stages of implementation and the pneumatic system necessary for the implementation of the various actuator cylinders.
+The objective of the project was to evaluate the various stages of implementation of the pneumatic system used for the actuator cylinders.
 
 Diagram of the phases - Grafcet -  Actuators - Sizing - Pneumatic system
 
