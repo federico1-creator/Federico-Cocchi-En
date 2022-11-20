@@ -1,4 +1,4 @@
-# Welcome on my portfolio:
+# Welcome to my portfolio:
 
 ![](images\italian.jpg){:height="25" width="25"}
 
